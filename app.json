@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "saude-sem-fronteiras",
+    "slug": "saude-sem-fronteiras",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "",
+
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.aet.saudesemfronteiras"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#ffffff",
+        "package": "com.andersonalmeida.saudesemfronteiras"
+      },
+      "package": "com.andersonalmeida.saudesemfronteiras"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": ["expo-router"],
+    "extra": {
+      "eas": {
+        "projectId": "0280c3fa-f181-4b78-b454-d4edb181cfbc"
+      }
+    }
+  }
+}
