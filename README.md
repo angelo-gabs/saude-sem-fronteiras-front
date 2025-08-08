@@ -56,7 +56,7 @@ O sistema possibilita:
 
 ## 🖼 Protótipos  
 Protótipos desenvolvidos no **Figma** para validação de design e usabilidade.  
-*(Adicione aqui o link ou imagens dos protótipos)*
+https://www.figma.com/design/Vn3I2A3lh6b0HJwab1EnIi/Sa%C3%BAde-Sem-Fronteiras?node-id=0-1&t=NQq6Qe0HroOVvAte-1
 
 ---
 
@@ -88,5 +88,6 @@ dotnet run
 - [Paola de Souza](https://github.com/usuario-paola)  
 
 **Orientadora:** [Prof. Ms. Stéfani Mano Valmini](https://github.com/usuario-stefani)  
+
 
 
